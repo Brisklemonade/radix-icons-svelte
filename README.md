@@ -2,6 +2,14 @@
 
 A svelte wrapper for a set of 15×15 icons designed by the [Modulz](https://modulz.app) team.
 
+## Installation
+
+Run the following command:
+
+```bash
+npm i radix-icons-svelte
+```
+
 ## Documentation
 
 Documentaion is currently a work in progress.
