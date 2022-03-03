@@ -13,9 +13,7 @@ const config = {
 	}),
 
 	kit: {
-		package: {
-			emitTypes: false
-		}
+		package: {}
 	}
 };
 

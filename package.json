@@ -1,6 +1,6 @@
 {
 	"name": "radix-icons-svelte",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"description": "A svelte wrapper for a set of 15x15 icons designed by the Modulz team.",
 	"types": "types/index.d.ts",
 	"scripts": {
