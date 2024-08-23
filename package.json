@@ -50,4 +50,9 @@
 	},
 	"sideEffects": false,
 	"type": "module"
+	"exports": {
+   		".": {
+     			"svelte": "./index.js"
+   		},
+	},
 }
